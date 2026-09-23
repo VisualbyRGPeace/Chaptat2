@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 // Change "chap-tat" below to your actual repository name before deploying.
 export default defineConfig({
   plugins: [react()],
-  base: "/chap-tat/",
+  base: "/Chaptat2/",
   build: {
     outDir: "dist",
   },
